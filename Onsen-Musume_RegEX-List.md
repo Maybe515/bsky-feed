@@ -1,8 +1,6 @@
 [温泉むすめ](https://bsky.app/profile/did:plc:mm5uc5iz7nzl3vy5mbog3t3d/feed/aaanndxrilgzy) フィードで表示するキーワード（RegEX）の一覧です。
 
 ## RegEX List
-### RegEX
-
 - 温泉むすめ
 - 温むす
 - ぽか旦那
@@ -107,6 +105,7 @@
 - 皆生なぎさ
 - 三朝歌蓮
 - はわい東郷浮乃
+- うきのん
 - 玉造彗
 - 温泉津佐間
 - 松江しんじ湖しじみ
