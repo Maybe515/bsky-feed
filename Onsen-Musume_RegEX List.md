@@ -1,4 +1,4 @@
-[温泉むすめ]() フィードで表示するキーワード（RegEX）の一覧です。
+[温泉むすめ](https://bsky.app/profile/did:plc:mm5uc5iz7nzl3vy5mbog3t3d/feed/aaanndxrilgzy) フィードで表示するキーワード（RegEX）の一覧です。
 
 ## RegEX List
 ### RegEX
