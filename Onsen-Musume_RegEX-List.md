@@ -1,17 +1,17 @@
 ## 温泉むすめフィード
-[温泉むすめフィード](https://bsky.app/profile/did:plc:mm5uc5iz7nzl3vy5mbog3t3d/feed/aaanndxrilgzy) は、"温泉むすめ"に関連するキーワードを含んだポストを表示させるフィードです。  
-当フィードは、[SkyFeed](https://skyfeed.app/) にて作成しております。    
+🔗[温泉むすめフィード](https://bsky.app/profile/did:plc:mm5uc5iz7nzl3vy5mbog3t3d/feed/aaanndxrilgzy) は、"温泉むすめ"に関連するキーワードを含んだポストを表示させるフィードです。  
+当フィードは、🔗[SkyFeed](https://skyfeed.app/) にて作成しております。    
 <br>
 
 ### Memo
 - SkyFeedの仕様上、7日間までのポストしか表示されません。（それ以上の日数にすることは一応可能）
 - 各キャラの名前についてですが、名前だけの表記には対応しておりません。現状はフルネームのみ対応しております。  
 例として"犬鳴山命"を挙げますと命（みこと）だけでなく、命（いのち）という単語も拾ってきてしまいます。（読み仮名による判別はされない）  
-似たり寄ったりなキーワードは検索の精度が落ちるため、敢えて追加しておりません。ご要望があるまでは一先ずこの形にしておきます  
+類似したキーワードは検索の精度が落ちるため、敢えて追加しておりません。ご要望があるまでは一先ずこの形にしておきます  
 <br>
 
 ### Connect with me
-- ご要望等はこちらまで → [Bluesky](https://bsky.app/profile/maybe515.bsky.social)  
+- ご要望等はこちらまで： 🔗[Bluesky](https://bsky.app/profile/maybe515.bsky.social)  
 <br>
 
 ## RegEX List
