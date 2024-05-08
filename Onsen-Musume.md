@@ -11,7 +11,7 @@
 <br>
 
 ### Connect with me
-- ご要望等はこちらまで：🔗[Bluesky Account](https://bsky.app/profile/maybe515.bsky.social)  
+- ご要望等はこちらまで　🔗[Bluesky Account](https://bsky.app/profile/maybe515.bsky.social)  
 <br>
 
 ## RegEX List
